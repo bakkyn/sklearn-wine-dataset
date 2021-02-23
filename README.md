@@ -21,9 +21,9 @@ SVC with Sigmoid : 0.35185185185185186<br>
 
 You can also check the addresses below to get more information and use as a resource.<br>
 
-[1] https://jonathonbechtel.com/blog/2018/02/06/wines/
-[2] https://www.kaggle.com/mfirat/red-wine-quality-classification-with-kernel-svm
-[3] https://medium.com/analytics-vidhya/step-by-step-guide-for-predicting-wine-quality-using-scikit-learn-de5869f8f91a
+[1] https://jonathonbechtel.com/blog/2018/02/06/wines/<br>
+[2] https://www.kaggle.com/mfirat/red-wine-quality-classification-with-kernel-svm <br>
+[3] https://medium.com/analytics-vidhya/step-by-step-guide-for-predicting-wine-quality-using-scikit-learn-de5869f8f91a<br>
 
 
 

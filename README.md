@@ -13,7 +13,7 @@ Features real, positive <br>
 This assignment is suggested to complete on Google colab to benefit from its GPU support. <br>
 Linear SVM, NonLinear SVM, MLP classifiers have been applied in general, and some results are as follows; the detailed form is in the outputs in the code.<br>
 
-Comparing of prediction results of each classifier based on accuracy
+Comparing of prediction results of each classifier based on accuracy<br>
 SVC with linear : 0.5925925925925926<br>
 SVC with RBF : 0.7407407407407407<br>
 SVC with polynomial : 0.7407407407407407 <br>
